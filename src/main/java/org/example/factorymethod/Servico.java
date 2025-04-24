@@ -1,4 +1,4 @@
 package org.example.factorymethod;
 
-public class Servico {
+public class Servico extends EntidadesJuridicas{
 }
